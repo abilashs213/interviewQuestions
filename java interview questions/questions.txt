@@ -1,0 +1,28 @@
+1) explain internal working of hashmap 
+https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
+
+2) what is fail fast and fail safe 
+https://www.javatpoint.com/fail-fast-and-fail-safe-iterator-in-java#:~:text=Difference%20Between%20Fail%20Fast%20and,an%20exception%20in%20such%20scenarios.
+
+3) what is a cyclic barrieer
+https://www.baeldung.com/java-cyclic-barrier#:~:text=A%20CyclicBarrier%20is%20a%20synchronizer,common%20point%20before%20continuing%20execution.
+
+4) design a thread pool briefly
+https://www.geeksforgeeks.org/thread-pools-java/
+
+5) different between atomic types and synchronization in concurrency
+https://www.geeksforgeeks.org/difference-between-atomic-volatile-and-synchronized-in-java/
+
+6) explain how hashcode and equals are releated
+https://www.javatpoint.com/equals-and-hashcode-in-java#:~:text=The%20hashcode()%20method%20returns,usually%20returns%20different%20hash%20values.
+
+
+7) difference between class not found and no class Definition found
+https://dzone.com/articles/java-classnotfoundexception-vs-noclassdeffounderro#:~:text=ClassNotFoundException%20is%20an%20exception%20that,was%20missing%20at%20run%20time.
+
+8) explain jvm internals
+https://www.geeksforgeeks.org/jvm-works-jvm-architecture/#:~:text=JVM(Java%20Virtual%20Machine)%20acts,(Write%20Once%20Run%20Anywhere).
+
+9) what is a marker and functional interfaces
+https://www.geeksforgeeks.org/marker-interface-java/
+https://www.geeksforgeeks.org/functional-interfaces-java/
